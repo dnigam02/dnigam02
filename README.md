@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello!👋
+
 My nam is Diksha Nigam. I have studied MSc in Artificial Intelligence from the University of Manchester. 🎓
+
 I have 2+ years of experience working as a Software Engineer in an American fortune 500 MNC, TIAA bank. 👩‍💻
+
 I love joining different community and competition that involve creating something for the society! 👯
